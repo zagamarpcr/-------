@@ -26,23 +26,23 @@ export let targets = {
     number_of_requests: 0,
     number_of_errored_responses: 0,
   },
-  'https://www.rt.com/': {
+  'https://discord.com/': {
     number_of_requests: 0,
     number_of_errored_responses: 0,
   },
-  'http://kremlin.ru/': {
+  'https://classroom.google.com/': {
     number_of_requests: 0,
     number_of_errored_responses: 0,
   },
-  'http://en.kremlin.ru/': {
+  'https://www.iplusinteractif.com/primaire/login/': {
     number_of_requests: 0,
     number_of_errored_responses: 0,
   },
-  'https://smotrim.ru/': {
+  'https://www.iplusinteractif.com/primaire?lang=fr_CA': {
     number_of_requests: 0,
     number_of_errored_responses: 0,
   },
-  'https://tass.ru/': {
+  'https://4': {
     number_of_requests: 0,
     number_of_errored_responses: 0,
   },
