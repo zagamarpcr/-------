@@ -42,7 +42,7 @@ export let targets = {
     number_of_requests: 0,
     number_of_errored_responses: 0,
   },
-  'https://4': {
+  'https://classroom.google.com/h/': {
     number_of_requests: 0,
     number_of_errored_responses: 0,
   },
