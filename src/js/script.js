@@ -4,7 +4,7 @@ import { printStats } from './utils/printStatistics';
 
 setInterval(() => {
   printStats(targets);
-}, 1);
+}, 500);
 
 const CONCURRENCY_LIMIT = 200;
 let queue = [];
